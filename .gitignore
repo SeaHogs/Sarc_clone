@@ -10,3 +10,6 @@ wheels/
 .venv
 checkpoints/
 data/
+
+# Environment variables
+.env

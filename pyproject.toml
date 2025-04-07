@@ -5,11 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "absl-py>=2.2.2",
     "datasets>=3.5.0",
     "evaluate>=0.4.3",
     "hf-xet>=1.0.0",
     "kagglehub>=0.3.11",
+    "nltk>=3.9.1",
     "pandas>=2.2.3",
+    "rouge-score>=0.1.2",
     "scikit-learn>=1.6.1",
     "transformers>=4.50.3",
 ]
