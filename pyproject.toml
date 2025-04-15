@@ -10,10 +10,12 @@ dependencies = [
     "evaluate>=0.4.3",
     "hf-xet>=1.0.0",
     "kagglehub>=0.3.11",
+    "lime>=0.2.0.1",
     "nltk>=3.9.1",
     "pandas>=2.2.3",
     "rouge-score>=0.1.2",
     "scikit-learn>=1.6.1",
+    "sentencepiece>=0.2.0",
     "transformers>=4.50.3",
 ]
 
@@ -23,4 +25,5 @@ dev = [
     "notebook>=7.3.3",
     "openai>=1.70.0",
     "ruff>=0.11.4",
+    "selenium>=4.31.0",
 ]

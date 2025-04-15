@@ -1,0 +1,3218 @@
+[
+    {
+        "text": "mom thought nfl's first openly gay player should have been drafted earlier",
+        "prediction": "Not sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.18131938576698303
+            },
+            {
+                "token": "mom",
+                "weight": -0.21636173129081726
+            },
+            {
+                "token": "thought",
+                "weight": -0.023174762725830078
+            },
+            {
+                "token": "nfl",
+                "weight": -0.5423721671104431
+            },
+            {
+                "token": "'",
+                "weight": -0.11678269505500793
+            },
+            {
+                "token": "s",
+                "weight": -0.06640711426734924
+            },
+            {
+                "token": "first",
+                "weight": -0.07672929018735886
+            },
+            {
+                "token": "openly",
+                "weight": -0.29142260551452637
+            },
+            {
+                "token": "gay",
+                "weight": -0.3678414225578308
+            },
+            {
+                "token": "player",
+                "weight": -0.08289438486099243
+            },
+            {
+                "token": "should",
+                "weight": 0.06336535513401031
+            },
+            {
+                "token": "have",
+                "weight": -0.0786970779299736
+            },
+            {
+                "token": "been",
+                "weight": -0.09803420305252075
+            },
+            {
+                "token": "drafted",
+                "weight": -0.10559951514005661
+            },
+            {
+                "token": "earlier",
+                "weight": -0.1295304149389267
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.5716784000396729
+            }
+        ]
+    },
+    {
+        "text": "banana republic announces opening of new stores where buying pants will not be totally humiliating experience",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.17893806099891663
+            },
+            {
+                "token": "banana",
+                "weight": 0.01697181910276413
+            },
+            {
+                "token": "republic",
+                "weight": 0.1126977726817131
+            },
+            {
+                "token": "announces",
+                "weight": 0.046948209404945374
+            },
+            {
+                "token": "opening",
+                "weight": -0.048643600195646286
+            },
+            {
+                "token": "of",
+                "weight": -0.023278774693608284
+            },
+            {
+                "token": "new",
+                "weight": 0.003924572374671698
+            },
+            {
+                "token": "stores",
+                "weight": -0.07030240446329117
+            },
+            {
+                "token": "where",
+                "weight": -0.02116849087178707
+            },
+            {
+                "token": "buying",
+                "weight": -0.028369396924972534
+            },
+            {
+                "token": "pants",
+                "weight": -0.041505251079797745
+            },
+            {
+                "token": "will",
+                "weight": -0.020528053864836693
+            },
+            {
+                "token": "not",
+                "weight": 0.003934844862669706
+            },
+            {
+                "token": "be",
+                "weight": -0.03193817287683487
+            },
+            {
+                "token": "totally",
+                "weight": -0.05229936167597771
+            },
+            {
+                "token": "humiliating",
+                "weight": -0.002953209448605776
+            },
+            {
+                "token": "experience",
+                "weight": 0.026113824918866158
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9680205583572388
+            }
+        ]
+    },
+    {
+        "text": "local tcby has missed past 2 logo changes",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.15799927711486816
+            },
+            {
+                "token": "local",
+                "weight": 0.09718538820743561
+            },
+            {
+                "token": "tc",
+                "weight": 0.09203340858221054
+            },
+            {
+                "token": "##by",
+                "weight": -0.12350691854953766
+            },
+            {
+                "token": "has",
+                "weight": -0.0256701298058033
+            },
+            {
+                "token": "missed",
+                "weight": -0.07141376286745071
+            },
+            {
+                "token": "past",
+                "weight": -0.09760375320911407
+            },
+            {
+                "token": "2",
+                "weight": 0.08414307981729507
+            },
+            {
+                "token": "logo",
+                "weight": -0.043340474367141724
+            },
+            {
+                "token": "changes",
+                "weight": -0.29235732555389404
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.9122228026390076
+            }
+        ]
+    },
+    {
+        "text": "vince gilligan's brain spoils final season of 'breaking bad' for vince gilligan",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.18186984956264496
+            },
+            {
+                "token": "vince",
+                "weight": 0.10625047981739044
+            },
+            {
+                "token": "gill",
+                "weight": 0.030330846086144447
+            },
+            {
+                "token": "##igan",
+                "weight": -0.038084208965301514
+            },
+            {
+                "token": "'",
+                "weight": 0.11877447366714478
+            },
+            {
+                "token": "s",
+                "weight": 0.06093498691916466
+            },
+            {
+                "token": "brain",
+                "weight": -0.09164930880069733
+            },
+            {
+                "token": "spoil",
+                "weight": -0.034068647772073746
+            },
+            {
+                "token": "##s",
+                "weight": 0.035628993064165115
+            },
+            {
+                "token": "final",
+                "weight": 0.03560773655772209
+            },
+            {
+                "token": "season",
+                "weight": -0.09586557745933533
+            },
+            {
+                "token": "of",
+                "weight": 0.13648903369903564
+            },
+            {
+                "token": "'",
+                "weight": -0.033538881689310074
+            },
+            {
+                "token": "breaking",
+                "weight": 0.021325021982192993
+            },
+            {
+                "token": "bad",
+                "weight": -0.13748493790626526
+            },
+            {
+                "token": "'",
+                "weight": -0.08585203438997269
+            },
+            {
+                "token": "for",
+                "weight": -0.0623205192387104
+            },
+            {
+                "token": "vince",
+                "weight": -0.035189077258110046
+            },
+            {
+                "token": "gill",
+                "weight": -0.06707634031772614
+            },
+            {
+                "token": "##igan",
+                "weight": -0.11219257861375809
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9194920063018799
+            }
+        ]
+    },
+    {
+        "text": "area man good for the economy",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5901347994804382
+            },
+            {
+                "token": "area",
+                "weight": -0.14825190603733063
+            },
+            {
+                "token": "man",
+                "weight": 0.3971675634384155
+            },
+            {
+                "token": "good",
+                "weight": -0.20820540189743042
+            },
+            {
+                "token": "for",
+                "weight": -0.3652394115924835
+            },
+            {
+                "token": "the",
+                "weight": -0.4971943199634552
+            },
+            {
+                "token": "economy",
+                "weight": -0.1775577962398529
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.1286151260137558
+            }
+        ]
+    },
+    {
+        "text": "darfur, ia also in pretty bad shape",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5299209952354431
+            },
+            {
+                "token": "dar",
+                "weight": 0.1282835304737091
+            },
+            {
+                "token": "##fur",
+                "weight": -0.11826182901859283
+            },
+            {
+                "token": ",",
+                "weight": -0.5169133543968201
+            },
+            {
+                "token": "ia",
+                "weight": -0.1035991907119751
+            },
+            {
+                "token": "also",
+                "weight": -0.10146688669919968
+            },
+            {
+                "token": "in",
+                "weight": -0.5018848776817322
+            },
+            {
+                "token": "pretty",
+                "weight": -0.011167451739311218
+            },
+            {
+                "token": "bad",
+                "weight": 0.09006848931312561
+            },
+            {
+                "token": "shape",
+                "weight": -0.14190401136875153
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.34677258133888245
+            }
+        ]
+    },
+    {
+        "text": "sausage storm grounds nation's airliners",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.3564970791339874
+            },
+            {
+                "token": "sausage",
+                "weight": 0.46700167655944824
+            },
+            {
+                "token": "storm",
+                "weight": -0.07686896622180939
+            },
+            {
+                "token": "grounds",
+                "weight": -0.004519669339060783
+            },
+            {
+                "token": "nation",
+                "weight": -0.08239933848381042
+            },
+            {
+                "token": "'",
+                "weight": 0.09280446916818619
+            },
+            {
+                "token": "s",
+                "weight": 0.2174474447965622
+            },
+            {
+                "token": "airline",
+                "weight": -0.27926725149154663
+            },
+            {
+                "token": "##rs",
+                "weight": -0.31737756729125977
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.6383460760116577
+            }
+        ]
+    },
+    {
+        "text": "contrarian amazon user completely upends critical consensus on microfiber towels",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.12244538962841034
+            },
+            {
+                "token": "contra",
+                "weight": -0.01347995176911354
+            },
+            {
+                "token": "##rian",
+                "weight": 0.09406143426895142
+            },
+            {
+                "token": "amazon",
+                "weight": -0.024373656138777733
+            },
+            {
+                "token": "user",
+                "weight": -0.09710114449262619
+            },
+            {
+                "token": "completely",
+                "weight": -0.058126311749219894
+            },
+            {
+                "token": "up",
+                "weight": -0.014099953696131706
+            },
+            {
+                "token": "##end",
+                "weight": -0.011629586108028889
+            },
+            {
+                "token": "##s",
+                "weight": -0.006264123599976301
+            },
+            {
+                "token": "critical",
+                "weight": -0.08342187851667404
+            },
+            {
+                "token": "consensus",
+                "weight": 0.022491006180644035
+            },
+            {
+                "token": "on",
+                "weight": 0.05055074393749237
+            },
+            {
+                "token": "micro",
+                "weight": 0.04489193484187126
+            },
+            {
+                "token": "##fi",
+                "weight": -0.038194555789232254
+            },
+            {
+                "token": "##ber",
+                "weight": -0.07748953998088837
+            },
+            {
+                "token": "towels",
+                "weight": 0.017396749928593636
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9707735776901245
+            }
+        ]
+    },
+    {
+        "text": "u.s. border collie rounds up 11 million illegal immigrants",
+        "prediction": "Not sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.07565847039222717
+            },
+            {
+                "token": "u",
+                "weight": -0.11144723743200302
+            },
+            {
+                "token": ".",
+                "weight": 0.23078086972236633
+            },
+            {
+                "token": "s",
+                "weight": -0.21344773471355438
+            },
+            {
+                "token": ".",
+                "weight": -0.2414679229259491
+            },
+            {
+                "token": "border",
+                "weight": -0.14224441349506378
+            },
+            {
+                "token": "col",
+                "weight": -0.03392267972230911
+            },
+            {
+                "token": "##lie",
+                "weight": -0.01628795452415943
+            },
+            {
+                "token": "rounds",
+                "weight": -0.07545976340770721
+            },
+            {
+                "token": "up",
+                "weight": -0.23317362368106842
+            },
+            {
+                "token": "11",
+                "weight": 0.038055360317230225
+            },
+            {
+                "token": "million",
+                "weight": 0.1362026482820511
+            },
+            {
+                "token": "illegal",
+                "weight": -0.2543210983276367
+            },
+            {
+                "token": "immigrants",
+                "weight": -0.2810401916503906
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.7611525058746338
+            }
+        ]
+    },
+    {
+        "text": "monster truck escapes",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.7110597491264343
+            },
+            {
+                "token": "monster",
+                "weight": 0.6068810820579529
+            },
+            {
+                "token": "truck",
+                "weight": 0.1460912525653839
+            },
+            {
+                "token": "escapes",
+                "weight": 0.2887076735496521
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.14626936614513397
+            }
+        ]
+    },
+    {
+        "text": "mom loved 'fruitvale station'",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5538471341133118
+            },
+            {
+                "token": "mom",
+                "weight": 0.35197851061820984
+            },
+            {
+                "token": "loved",
+                "weight": 0.2690795958042145
+            },
+            {
+                "token": "'",
+                "weight": -0.21638120710849762
+            },
+            {
+                "token": "fruit",
+                "weight": -0.40845203399658203
+            },
+            {
+                "token": "##vale",
+                "weight": -0.3851940631866455
+            },
+            {
+                "token": "station",
+                "weight": 0.010602785274386406
+            },
+            {
+                "token": "'",
+                "weight": 0.36497920751571655
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.04012732952833176
+            }
+        ]
+    },
+    {
+        "text": "gop establishment relieved after conventionally abhorrent beliefs make way onto presidential ticket",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5345797538757324
+            },
+            {
+                "token": "go",
+                "weight": 0.6428638696670532
+            },
+            {
+                "token": "##p",
+                "weight": 0.18438173830509186
+            },
+            {
+                "token": "establishment",
+                "weight": -0.10905147343873978
+            },
+            {
+                "token": "relieved",
+                "weight": -0.07638733088970184
+            },
+            {
+                "token": "after",
+                "weight": -0.13717828691005707
+            },
+            {
+                "token": "conventional",
+                "weight": 0.008915243670344353
+            },
+            {
+                "token": "##ly",
+                "weight": -0.022603577002882957
+            },
+            {
+                "token": "ab",
+                "weight": 0.06858381628990173
+            },
+            {
+                "token": "##hor",
+                "weight": 0.05786294862627983
+            },
+            {
+                "token": "##rent",
+                "weight": -0.10446400195360184
+            },
+            {
+                "token": "beliefs",
+                "weight": -0.1696288138628006
+            },
+            {
+                "token": "make",
+                "weight": 0.01944045163691044
+            },
+            {
+                "token": "way",
+                "weight": -0.007653651759028435
+            },
+            {
+                "token": "onto",
+                "weight": 0.15626858174800873
+            },
+            {
+                "token": "presidential",
+                "weight": 0.08385125547647476
+            },
+            {
+                "token": "ticket",
+                "weight": -0.08635364472866058
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.37780341506004333
+            }
+        ]
+    },
+    {
+        "text": "sun thinking of just collapsing now and getting this all over with",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.2653992176055908
+            },
+            {
+                "token": "sun",
+                "weight": 0.16087310016155243
+            },
+            {
+                "token": "thinking",
+                "weight": 0.045812614262104034
+            },
+            {
+                "token": "of",
+                "weight": -0.02255871333181858
+            },
+            {
+                "token": "just",
+                "weight": -0.156645730137825
+            },
+            {
+                "token": "collapsing",
+                "weight": 0.005161653738468885
+            },
+            {
+                "token": "now",
+                "weight": -0.06993282586336136
+            },
+            {
+                "token": "and",
+                "weight": -0.10035652667284012
+            },
+            {
+                "token": "getting",
+                "weight": 0.1129017025232315
+            },
+            {
+                "token": "this",
+                "weight": -0.11023923009634018
+            },
+            {
+                "token": "all",
+                "weight": -0.06697861850261688
+            },
+            {
+                "token": "over",
+                "weight": -0.05573326349258423
+            },
+            {
+                "token": "with",
+                "weight": -0.16601650416851044
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.8952628374099731
+            }
+        ]
+    },
+    {
+        "text": "optimist half full of shit",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.1332932859659195
+            },
+            {
+                "token": "opt",
+                "weight": -0.03468155488371849
+            },
+            {
+                "token": "##imi",
+                "weight": -0.01905609667301178
+            },
+            {
+                "token": "##st",
+                "weight": -0.027717825025320053
+            },
+            {
+                "token": "half",
+                "weight": -0.0462416410446167
+            },
+            {
+                "token": "full",
+                "weight": -0.016659745946526527
+            },
+            {
+                "token": "of",
+                "weight": 0.02594098635017872
+            },
+            {
+                "token": "shit",
+                "weight": 0.06886940449476242
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9859344959259033
+            }
+        ]
+    },
+    {
+        "text": "nation excited to see whatever bile the internet spews up today",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.2886599600315094
+            },
+            {
+                "token": "nation",
+                "weight": 0.2131105661392212
+            },
+            {
+                "token": "excited",
+                "weight": 0.2151096761226654
+            },
+            {
+                "token": "to",
+                "weight": -0.005448454990983009
+            },
+            {
+                "token": "see",
+                "weight": -0.056411828845739365
+            },
+            {
+                "token": "whatever",
+                "weight": -0.0537683442234993
+            },
+            {
+                "token": "bile",
+                "weight": 0.033190030604600906
+            },
+            {
+                "token": "the",
+                "weight": -0.038210973143577576
+            },
+            {
+                "token": "internet",
+                "weight": -0.02891468070447445
+            },
+            {
+                "token": "sp",
+                "weight": 0.03796953707933426
+            },
+            {
+                "token": "##ew",
+                "weight": -0.04075605422258377
+            },
+            {
+                "token": "##s",
+                "weight": -0.04508471116423607
+            },
+            {
+                "token": "up",
+                "weight": -0.029408486559987068
+            },
+            {
+                "token": "today",
+                "weight": 0.0374261774122715
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.8989357352256775
+            }
+        ]
+    },
+    {
+        "text": "woman thinks she would make a great talk-show host",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.4557892680168152
+            },
+            {
+                "token": "woman",
+                "weight": 0.1507158726453781
+            },
+            {
+                "token": "thinks",
+                "weight": 0.22657343745231628
+            },
+            {
+                "token": "she",
+                "weight": -0.5775919556617737
+            },
+            {
+                "token": "would",
+                "weight": -0.16778253018856049
+            },
+            {
+                "token": "make",
+                "weight": -0.18749193847179413
+            },
+            {
+                "token": "a",
+                "weight": -0.0729154720902443
+            },
+            {
+                "token": "great",
+                "weight": -0.04914712533354759
+            },
+            {
+                "token": "talk",
+                "weight": -0.12069167196750641
+            },
+            {
+                "token": "-",
+                "weight": -0.015212848782539368
+            },
+            {
+                "token": "show",
+                "weight": -0.29095280170440674
+            },
+            {
+                "token": "host",
+                "weight": -0.04252054914832115
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.4607571065425873
+            }
+        ]
+    },
+    {
+        "text": "ad exec doesn't care what proverb actually means",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.1878901869058609
+            },
+            {
+                "token": "ad",
+                "weight": 0.01936456188559532
+            },
+            {
+                "token": "ex",
+                "weight": 0.048462413251399994
+            },
+            {
+                "token": "##ec",
+                "weight": -0.08803153038024902
+            },
+            {
+                "token": "doesn",
+                "weight": 0.028749948367476463
+            },
+            {
+                "token": "'",
+                "weight": 0.008979725651443005
+            },
+            {
+                "token": "t",
+                "weight": -0.007103098556399345
+            },
+            {
+                "token": "care",
+                "weight": -0.04324306175112724
+            },
+            {
+                "token": "what",
+                "weight": 0.011149905622005463
+            },
+            {
+                "token": "prove",
+                "weight": -0.012829987332224846
+            },
+            {
+                "token": "##rb",
+                "weight": -0.049598779529333115
+            },
+            {
+                "token": "actually",
+                "weight": 0.04566825553774834
+            },
+            {
+                "token": "means",
+                "weight": 0.039285074919462204
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9721207022666931
+            }
+        ]
+    },
+    {
+        "text": "opera ends on unexpected high note",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.10205253958702087
+            },
+            {
+                "token": "opera",
+                "weight": 0.01519765891134739
+            },
+            {
+                "token": "ends",
+                "weight": 0.03261388838291168
+            },
+            {
+                "token": "on",
+                "weight": -0.05659787729382515
+            },
+            {
+                "token": "unexpected",
+                "weight": -0.06807858496904373
+            },
+            {
+                "token": "high",
+                "weight": -0.07477158308029175
+            },
+            {
+                "token": "note",
+                "weight": -0.013952727429568768
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9872522950172424
+            }
+        ]
+    },
+    {
+        "text": "shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.03953460603952408
+            },
+            {
+                "token": "shell",
+                "weight": 0.024403350427746773
+            },
+            {
+                "token": "##ing",
+                "weight": 0.10116375982761383
+            },
+            {
+                "token": "from",
+                "weight": 0.05076315626502037
+            },
+            {
+                "token": "royal",
+                "weight": 0.018786847591400146
+            },
+            {
+                "token": "caribbean",
+                "weight": -0.07194194197654724
+            },
+            {
+                "token": "'",
+                "weight": 0.02226899564266205
+            },
+            {
+                "token": "s",
+                "weight": 0.02347331866621971
+            },
+            {
+                "token": "m",
+                "weight": 0.048509255051612854
+            },
+            {
+                "token": ".",
+                "weight": 0.010531271807849407
+            },
+            {
+                "token": "s",
+                "weight": 0.04461408033967018
+            },
+            {
+                "token": ".",
+                "weight": -0.03565983101725578
+            },
+            {
+                "token": "'",
+                "weight": 0.029037032276391983
+            },
+            {
+                "token": "all",
+                "weight": -0.04558759927749634
+            },
+            {
+                "token": "##ure",
+                "weight": -0.02863379754126072
+            },
+            {
+                "token": "'",
+                "weight": -0.03300764411687851
+            },
+            {
+                "token": "sinks",
+                "weight": -0.17506344616413116
+            },
+            {
+                "token": "carnival",
+                "weight": 0.007909832522273064
+            },
+            {
+                "token": "cruise",
+                "weight": -0.008715156465768814
+            },
+            {
+                "token": "vessel",
+                "weight": 0.049327101558446884
+            },
+            {
+                "token": "that",
+                "weight": -0.02922121062874794
+            },
+            {
+                "token": "crossed",
+                "weight": 0.041242752224206924
+            },
+            {
+                "token": "into",
+                "weight": -0.0361580066382885
+            },
+            {
+                "token": "disputed",
+                "weight": -0.0470057874917984
+            },
+            {
+                "token": "waters",
+                "weight": 0.02021096646785736
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9634308815002441
+            }
+        ]
+    },
+    {
+        "text": "new envelope pushes envelope envelope",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5840038657188416
+            },
+            {
+                "token": "new",
+                "weight": 0.6453748345375061
+            },
+            {
+                "token": "envelope",
+                "weight": -0.012841854244470596
+            },
+            {
+                "token": "pushes",
+                "weight": -0.010830444283783436
+            },
+            {
+                "token": "envelope",
+                "weight": -0.1452062726020813
+            },
+            {
+                "token": "envelope",
+                "weight": 0.010678515769541264
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.47005289793014526
+            }
+        ]
+    },
+    {
+        "text": "smithsonian rejects tie dylan mcdermott wore in 'the practice'",
+        "prediction": "Not sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.4834977686405182
+            },
+            {
+                "token": "smithsonian",
+                "weight": 0.18138034641742706
+            },
+            {
+                "token": "rejects",
+                "weight": -0.2608906030654907
+            },
+            {
+                "token": "tie",
+                "weight": 0.1884196549654007
+            },
+            {
+                "token": "dylan",
+                "weight": -0.31849154829978943
+            },
+            {
+                "token": "mc",
+                "weight": -0.21299925446510315
+            },
+            {
+                "token": "##dermott",
+                "weight": -0.3541770577430725
+            },
+            {
+                "token": "wore",
+                "weight": -0.15692760050296783
+            },
+            {
+                "token": "in",
+                "weight": 0.019894689321517944
+            },
+            {
+                "token": "'",
+                "weight": -0.1351517140865326
+            },
+            {
+                "token": "the",
+                "weight": -0.296485036611557
+            },
+            {
+                "token": "practice",
+                "weight": 0.039198487997055054
+            },
+            {
+                "token": "'",
+                "weight": 0.19206629693508148
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.4334753453731537
+            }
+        ]
+    },
+    {
+        "text": "woman dots her 'i's with cute round marks",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.38891834020614624
+            },
+            {
+                "token": "woman",
+                "weight": 0.2915666997432709
+            },
+            {
+                "token": "dots",
+                "weight": 0.12038612365722656
+            },
+            {
+                "token": "her",
+                "weight": -0.24877037107944489
+            },
+            {
+                "token": "'",
+                "weight": -0.36667540669441223
+            },
+            {
+                "token": "i",
+                "weight": -0.31565916538238525
+            },
+            {
+                "token": "'",
+                "weight": 0.07779102027416229
+            },
+            {
+                "token": "s",
+                "weight": 0.18368694186210632
+            },
+            {
+                "token": "with",
+                "weight": -0.2729708254337311
+            },
+            {
+                "token": "cute",
+                "weight": -0.13384607434272766
+            },
+            {
+                "token": "round",
+                "weight": 0.05521048605442047
+            },
+            {
+                "token": "marks",
+                "weight": -0.17752385139465332
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.5352357625961304
+            }
+        ]
+    },
+    {
+        "text": "grizzled band-aid weathers third shower",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.06765036284923553
+            },
+            {
+                "token": "gr",
+                "weight": 0.004569549113512039
+            },
+            {
+                "token": "##iz",
+                "weight": 0.023565348237752914
+            },
+            {
+                "token": "##zle",
+                "weight": 0.00226022582501173
+            },
+            {
+                "token": "##d",
+                "weight": -0.037177372723817825
+            },
+            {
+                "token": "band",
+                "weight": -0.03031919151544571
+            },
+            {
+                "token": "-",
+                "weight": 0.019309571012854576
+            },
+            {
+                "token": "aid",
+                "weight": -0.007748711854219437
+            },
+            {
+                "token": "weather",
+                "weight": -0.013317038305103779
+            },
+            {
+                "token": "##s",
+                "weight": -0.01662425324320793
+            },
+            {
+                "token": "third",
+                "weight": -0.001783197745680809
+            },
+            {
+                "token": "shower",
+                "weight": 0.018476640805602074
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9956452250480652
+            }
+        ]
+    },
+    {
+        "text": "light playing beautifully off eric trump's gums at inaugural ball",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.3202263116836548
+            },
+            {
+                "token": "light",
+                "weight": 0.22176162898540497
+            },
+            {
+                "token": "playing",
+                "weight": 0.19456276297569275
+            },
+            {
+                "token": "beautifully",
+                "weight": -0.04754617065191269
+            },
+            {
+                "token": "off",
+                "weight": -0.1977243423461914
+            },
+            {
+                "token": "eric",
+                "weight": -0.12273785471916199
+            },
+            {
+                "token": "trump",
+                "weight": -0.37318846583366394
+            },
+            {
+                "token": "'",
+                "weight": 0.13063296675682068
+            },
+            {
+                "token": "s",
+                "weight": 0.16925962269306183
+            },
+            {
+                "token": "gum",
+                "weight": 0.008223864249885082
+            },
+            {
+                "token": "##s",
+                "weight": -0.06591333448886871
+            },
+            {
+                "token": "at",
+                "weight": -0.0881538838148117
+            },
+            {
+                "token": "inaugural",
+                "weight": 0.14662961661815643
+            },
+            {
+                "token": "ball",
+                "weight": -0.14324873685836792
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.7175060510635376
+            }
+        ]
+    },
+    {
+        "text": "al-qaeda sitcom filmed before live studio hostages",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.18282999098300934
+            },
+            {
+                "token": "al",
+                "weight": 0.08215904235839844
+            },
+            {
+                "token": "-",
+                "weight": 0.0030226174276322126
+            },
+            {
+                "token": "qaeda",
+                "weight": -0.07558391243219376
+            },
+            {
+                "token": "sitcom",
+                "weight": 0.019918659701943398
+            },
+            {
+                "token": "filmed",
+                "weight": -0.033181384205818176
+            },
+            {
+                "token": "before",
+                "weight": 0.00889623537659645
+            },
+            {
+                "token": "live",
+                "weight": 0.010647367686033249
+            },
+            {
+                "token": "studio",
+                "weight": 0.04093315079808235
+            },
+            {
+                "token": "hostages",
+                "weight": -0.07124311476945877
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.972450315952301
+            }
+        ]
+    },
+    {
+        "text": "tour becoming one-on-one between guide and man who knew name of mckinley's assassin",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.48011136054992676
+            },
+            {
+                "token": "tour",
+                "weight": 0.3076229691505432
+            },
+            {
+                "token": "becoming",
+                "weight": 0.07949700206518173
+            },
+            {
+                "token": "one",
+                "weight": -0.0607338547706604
+            },
+            {
+                "token": "-",
+                "weight": -0.2323894053697586
+            },
+            {
+                "token": "on",
+                "weight": -0.24082982540130615
+            },
+            {
+                "token": "-",
+                "weight": 0.032193802297115326
+            },
+            {
+                "token": "one",
+                "weight": -0.1382100135087967
+            },
+            {
+                "token": "between",
+                "weight": -0.012499439530074596
+            },
+            {
+                "token": "guide",
+                "weight": 0.13419122993946075
+            },
+            {
+                "token": "and",
+                "weight": -0.25132444500923157
+            },
+            {
+                "token": "man",
+                "weight": 0.1781269907951355
+            },
+            {
+                "token": "who",
+                "weight": 0.08798857778310776
+            },
+            {
+                "token": "knew",
+                "weight": 0.0814368799328804
+            },
+            {
+                "token": "name",
+                "weight": 0.06735852360725403
+            },
+            {
+                "token": "of",
+                "weight": -0.01385034341365099
+            },
+            {
+                "token": "mckinley",
+                "weight": -0.024744180962443352
+            },
+            {
+                "token": "'",
+                "weight": 0.1614200919866562
+            },
+            {
+                "token": "s",
+                "weight": 0.2493295818567276
+            },
+            {
+                "token": "assassin",
+                "weight": -0.21898552775382996
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.5135778188705444
+            }
+        ]
+    },
+    {
+        "text": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.12769751250743866
+            },
+            {
+                "token": "neighborhood",
+                "weight": 0.030609413981437683
+            },
+            {
+                "token": "has",
+                "weight": 0.18546214699745178
+            },
+            {
+                "token": "gotten",
+                "weight": 0.01701885275542736
+            },
+            {
+                "token": "a",
+                "weight": -0.1609477549791336
+            },
+            {
+                "token": "lot",
+                "weight": -0.033926572650671005
+            },
+            {
+                "token": "safer",
+                "weight": -0.00871792621910572
+            },
+            {
+                "token": "since",
+                "weight": -0.0433150939643383
+            },
+            {
+                "token": "mayor",
+                "weight": 0.009957739152014256
+            },
+            {
+                "token": "van",
+                "weight": 0.021145664155483246
+            },
+            {
+                "token": "##qui",
+                "weight": -0.02880227006971836
+            },
+            {
+                "token": "##shed",
+                "weight": -0.017486615106463432
+            },
+            {
+                "token": "fire",
+                "weight": -0.03905295580625534
+            },
+            {
+                "token": "troll",
+                "weight": -0.036455187946558
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9563093185424805
+            }
+        ]
+    },
+    {
+        "text": "'i'm not really looking to date right now,' says man, as if he not at mercy of love's powerful, mysterious ways",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.3101218640804291
+            },
+            {
+                "token": "'",
+                "weight": 0.15687447786331177
+            },
+            {
+                "token": "i",
+                "weight": -0.08950332552194595
+            },
+            {
+                "token": "'",
+                "weight": 0.046879373490810394
+            },
+            {
+                "token": "m",
+                "weight": 0.008183039724826813
+            },
+            {
+                "token": "not",
+                "weight": 0.06878140568733215
+            },
+            {
+                "token": "really",
+                "weight": -0.15190136432647705
+            },
+            {
+                "token": "looking",
+                "weight": -0.14294284582138062
+            },
+            {
+                "token": "to",
+                "weight": -0.04397711530327797
+            },
+            {
+                "token": "date",
+                "weight": 0.14600402116775513
+            },
+            {
+                "token": "right",
+                "weight": -0.07647110521793365
+            },
+            {
+                "token": "now",
+                "weight": -0.3059116303920746
+            },
+            {
+                "token": ",",
+                "weight": 0.11336373537778854
+            },
+            {
+                "token": "'",
+                "weight": -0.07043296098709106
+            },
+            {
+                "token": "says",
+                "weight": -0.02824605070054531
+            },
+            {
+                "token": "man",
+                "weight": 0.06949776411056519
+            },
+            {
+                "token": ",",
+                "weight": -0.2309291809797287
+            },
+            {
+                "token": "as",
+                "weight": 0.00548726599663496
+            },
+            {
+                "token": "if",
+                "weight": 0.35161471366882324
+            },
+            {
+                "token": "he",
+                "weight": -0.058988843113183975
+            },
+            {
+                "token": "not",
+                "weight": 0.013888629153370857
+            },
+            {
+                "token": "at",
+                "weight": -0.17200274765491486
+            },
+            {
+                "token": "mercy",
+                "weight": -0.2049933522939682
+            },
+            {
+                "token": "of",
+                "weight": 0.24193310737609863
+            },
+            {
+                "token": "love",
+                "weight": -0.31598663330078125
+            },
+            {
+                "token": "'",
+                "weight": 0.2376842200756073
+            },
+            {
+                "token": "s",
+                "weight": 0.3038557171821594
+            },
+            {
+                "token": "powerful",
+                "weight": -0.11906813085079193
+            },
+            {
+                "token": ",",
+                "weight": -0.13661311566829681
+            },
+            {
+                "token": "mysterious",
+                "weight": -0.08442140370607376
+            },
+            {
+                "token": "ways",
+                "weight": -0.10515140742063522
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.25314900279045105
+            }
+        ]
+    },
+    {
+        "text": "white house declares war on dsl provider",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.29396384954452515
+            },
+            {
+                "token": "white",
+                "weight": 0.35750651359558105
+            },
+            {
+                "token": "house",
+                "weight": -0.0003465247864369303
+            },
+            {
+                "token": "declares",
+                "weight": 0.16854213178157806
+            },
+            {
+                "token": "war",
+                "weight": -0.1552693247795105
+            },
+            {
+                "token": "on",
+                "weight": -0.08013228327035904
+            },
+            {
+                "token": "ds",
+                "weight": -0.11710606515407562
+            },
+            {
+                "token": "##l",
+                "weight": -0.1827319711446762
+            },
+            {
+                "token": "provider",
+                "weight": 0.12268373370170593
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.8152802586555481
+            }
+        ]
+    },
+    {
+        "text": "mental illness determined not to let stigma of area man define it",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.18112656474113464
+            },
+            {
+                "token": "mental",
+                "weight": 0.07962342351675034
+            },
+            {
+                "token": "illness",
+                "weight": 0.03876100480556488
+            },
+            {
+                "token": "determined",
+                "weight": -0.036957815289497375
+            },
+            {
+                "token": "not",
+                "weight": -0.061787866055965424
+            },
+            {
+                "token": "to",
+                "weight": -0.03648844361305237
+            },
+            {
+                "token": "let",
+                "weight": -0.0007626315345987678
+            },
+            {
+                "token": "stigma",
+                "weight": -0.02680802159011364
+            },
+            {
+                "token": "of",
+                "weight": -0.00564866466447711
+            },
+            {
+                "token": "area",
+                "weight": -0.07811941206455231
+            },
+            {
+                "token": "man",
+                "weight": 0.017760666087269783
+            },
+            {
+                "token": "define",
+                "weight": -0.06605549901723862
+            },
+            {
+                "token": "it",
+                "weight": -0.036323871463537216
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9695276618003845
+            }
+        ]
+    },
+    {
+        "text": "stone-hearted ice witch forgoes exclamation point",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.14560829102993011
+            },
+            {
+                "token": "stone",
+                "weight": 0.018214136362075806
+            },
+            {
+                "token": "-",
+                "weight": 0.006080628838390112
+            },
+            {
+                "token": "hearted",
+                "weight": 0.03837399557232857
+            },
+            {
+                "token": "ice",
+                "weight": -0.03394043445587158
+            },
+            {
+                "token": "witch",
+                "weight": -0.03319356217980385
+            },
+            {
+                "token": "for",
+                "weight": 0.01116908248513937
+            },
+            {
+                "token": "##go",
+                "weight": -0.031023187562823296
+            },
+            {
+                "token": "##es",
+                "weight": -0.021063828840851784
+            },
+            {
+                "token": "ex",
+                "weight": 0.03688918799161911
+            },
+            {
+                "token": "##cl",
+                "weight": -0.05685632675886154
+            },
+            {
+                "token": "##ama",
+                "weight": -0.045554645359516144
+            },
+            {
+                "token": "##tion",
+                "weight": -0.02375221811234951
+            },
+            {
+                "token": "point",
+                "weight": 0.047170501202344894
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9816895723342896
+            }
+        ]
+    },
+    {
+        "text": "embarrassed library of congress can't believe some of the albums it used to be into",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.12541881203651428
+            },
+            {
+                "token": "embarrassed",
+                "weight": 0.15373404324054718
+            },
+            {
+                "token": "library",
+                "weight": 0.0015351733891293406
+            },
+            {
+                "token": "of",
+                "weight": -0.002611881820484996
+            },
+            {
+                "token": "congress",
+                "weight": -0.09810839593410492
+            },
+            {
+                "token": "can",
+                "weight": 0.0113260168582201
+            },
+            {
+                "token": "'",
+                "weight": 0.014555164612829685
+            },
+            {
+                "token": "t",
+                "weight": -0.023446962237358093
+            },
+            {
+                "token": "believe",
+                "weight": -0.007046971470117569
+            },
+            {
+                "token": "some",
+                "weight": -0.08260014653205872
+            },
+            {
+                "token": "of",
+                "weight": 0.0021272082813084126
+            },
+            {
+                "token": "the",
+                "weight": -0.018942970782518387
+            },
+            {
+                "token": "albums",
+                "weight": -0.015807349234819412
+            },
+            {
+                "token": "it",
+                "weight": -0.07269242405891418
+            },
+            {
+                "token": "used",
+                "weight": 0.02644190564751625
+            },
+            {
+                "token": "to",
+                "weight": 0.0008348295232281089
+            },
+            {
+                "token": "be",
+                "weight": -0.031688444316387177
+            },
+            {
+                "token": "into",
+                "weight": -0.027750110253691673
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.966885507106781
+            }
+        ]
+    },
+    {
+        "text": "secret service shuts down biden's unofficial white house tour operation",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.09549042582511902
+            },
+            {
+                "token": "secret",
+                "weight": 0.037541575729846954
+            },
+            {
+                "token": "service",
+                "weight": 0.06779612600803375
+            },
+            {
+                "token": "shut",
+                "weight": -0.04571453854441643
+            },
+            {
+                "token": "##s",
+                "weight": -0.025952152907848358
+            },
+            {
+                "token": "down",
+                "weight": -0.017949240282177925
+            },
+            {
+                "token": "bid",
+                "weight": -0.031667016446590424
+            },
+            {
+                "token": "##en",
+                "weight": -0.06173719838261604
+            },
+            {
+                "token": "'",
+                "weight": 0.020223094150424004
+            },
+            {
+                "token": "s",
+                "weight": 0.03477831929922104
+            },
+            {
+                "token": "unofficial",
+                "weight": -0.010313937440514565
+            },
+            {
+                "token": "white",
+                "weight": -0.02357671596109867
+            },
+            {
+                "token": "house",
+                "weight": -0.0671408623456955
+            },
+            {
+                "token": "tour",
+                "weight": 0.023169897496700287
+            },
+            {
+                "token": "operation",
+                "weight": 0.08558899164199829
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.980981707572937
+            }
+        ]
+    },
+    {
+        "text": "number of acceptable things candidates can say now down to four",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.21588312089443207
+            },
+            {
+                "token": "number",
+                "weight": 0.06189599633216858
+            },
+            {
+                "token": "of",
+                "weight": 0.15392665565013885
+            },
+            {
+                "token": "acceptable",
+                "weight": -0.06105058267712593
+            },
+            {
+                "token": "things",
+                "weight": -0.11554911732673645
+            },
+            {
+                "token": "candidates",
+                "weight": -0.028449775651097298
+            },
+            {
+                "token": "can",
+                "weight": 0.04571061208844185
+            },
+            {
+                "token": "say",
+                "weight": -0.015574824064970016
+            },
+            {
+                "token": "now",
+                "weight": -0.046879205852746964
+            },
+            {
+                "token": "down",
+                "weight": -0.005328699946403503
+            },
+            {
+                "token": "to",
+                "weight": -0.048207998275756836
+            },
+            {
+                "token": "four",
+                "weight": 0.04009118676185608
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9484156966209412
+            }
+        ]
+    },
+    {
+        "text": "water pistol fired using sideways gangsta grip",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.6403897404670715
+            },
+            {
+                "token": "water",
+                "weight": 0.44512057304382324
+            },
+            {
+                "token": "pistol",
+                "weight": 0.3711463510990143
+            },
+            {
+                "token": "fired",
+                "weight": 0.13699740171432495
+            },
+            {
+                "token": "using",
+                "weight": -0.15117906033992767
+            },
+            {
+                "token": "sideways",
+                "weight": -0.06390228122472763
+            },
+            {
+                "token": "gangs",
+                "weight": 0.07903865724802017
+            },
+            {
+                "token": "##ta",
+                "weight": -0.23788219690322876
+            },
+            {
+                "token": "grip",
+                "weight": -0.28004705905914307
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.2589418590068817
+            }
+        ]
+    },
+    {
+        "text": "local building accessible to only the strongest of the handicapped",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.24998636543750763
+            },
+            {
+                "token": "local",
+                "weight": 0.07692451030015945
+            },
+            {
+                "token": "building",
+                "weight": 0.1385248452425003
+            },
+            {
+                "token": "accessible",
+                "weight": 0.04340041056275368
+            },
+            {
+                "token": "to",
+                "weight": -0.09939964860677719
+            },
+            {
+                "token": "only",
+                "weight": 0.09905429929494858
+            },
+            {
+                "token": "the",
+                "weight": -0.03741665557026863
+            },
+            {
+                "token": "strongest",
+                "weight": -0.22730064392089844
+            },
+            {
+                "token": "of",
+                "weight": 0.04947728291153908
+            },
+            {
+                "token": "the",
+                "weight": -0.0790068656206131
+            },
+            {
+                "token": "handicapped",
+                "weight": -0.03195016458630562
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9099714756011963
+            }
+        ]
+    },
+    {
+        "text": "alarming study finds 60% of americans don't know where their next value meal going to come from",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.08545020967721939
+            },
+            {
+                "token": "alarm",
+                "weight": 0.0009798420360311866
+            },
+            {
+                "token": "##ing",
+                "weight": 0.05916906148195267
+            },
+            {
+                "token": "study",
+                "weight": 0.023758620023727417
+            },
+            {
+                "token": "finds",
+                "weight": 0.00537271099165082
+            },
+            {
+                "token": "60",
+                "weight": 0.018338274210691452
+            },
+            {
+                "token": "%",
+                "weight": -0.005947829689830542
+            },
+            {
+                "token": "of",
+                "weight": 0.0027226542588323355
+            },
+            {
+                "token": "americans",
+                "weight": 0.017642777413129807
+            },
+            {
+                "token": "don",
+                "weight": -0.010912595316767693
+            },
+            {
+                "token": "'",
+                "weight": -0.021130574867129326
+            },
+            {
+                "token": "t",
+                "weight": -0.005096571985632181
+            },
+            {
+                "token": "know",
+                "weight": -0.00813206471502781
+            },
+            {
+                "token": "where",
+                "weight": 0.0029589480254799128
+            },
+            {
+                "token": "their",
+                "weight": 0.006047748029232025
+            },
+            {
+                "token": "next",
+                "weight": -0.00533728301525116
+            },
+            {
+                "token": "value",
+                "weight": 0.014546568505465984
+            },
+            {
+                "token": "meal",
+                "weight": 0.022488566115498543
+            },
+            {
+                "token": "going",
+                "weight": 0.009321760386228561
+            },
+            {
+                "token": "to",
+                "weight": 0.00937748234719038
+            },
+            {
+                "token": "come",
+                "weight": -0.0062592714093625546
+            },
+            {
+                "token": "from",
+                "weight": -0.04776177927851677
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9919518828392029
+            }
+        ]
+    },
+    {
+        "text": "man escapes eritrean civil war to clean martini puke from back of taxi",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.24271267652511597
+            },
+            {
+                "token": "man",
+                "weight": 0.4070579707622528
+            },
+            {
+                "token": "escapes",
+                "weight": 0.04973779246211052
+            },
+            {
+                "token": "eritrea",
+                "weight": -0.2451568841934204
+            },
+            {
+                "token": "##n",
+                "weight": -0.1731136441230774
+            },
+            {
+                "token": "civil",
+                "weight": -0.0011243129847571254
+            },
+            {
+                "token": "war",
+                "weight": -0.04561499133706093
+            },
+            {
+                "token": "to",
+                "weight": -0.09826146066188812
+            },
+            {
+                "token": "clean",
+                "weight": 0.01153691578656435
+            },
+            {
+                "token": "martini",
+                "weight": -0.040794942528009415
+            },
+            {
+                "token": "pu",
+                "weight": -0.044664718210697174
+            },
+            {
+                "token": "##ke",
+                "weight": -0.019035402685403824
+            },
+            {
+                "token": "from",
+                "weight": -0.056037310510873795
+            },
+            {
+                "token": "back",
+                "weight": -0.03279051184654236
+            },
+            {
+                "token": "of",
+                "weight": -0.0322011262178421
+            },
+            {
+                "token": "taxi",
+                "weight": -0.13796518743038177
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.8016679883003235
+            }
+        ]
+    },
+    {
+        "text": "woman assures friend she has blackouts from drinking all the time",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.17049001157283783
+            },
+            {
+                "token": "woman",
+                "weight": -0.08647124469280243
+            },
+            {
+                "token": "assure",
+                "weight": 0.22909554839134216
+            },
+            {
+                "token": "##s",
+                "weight": 0.19574382901191711
+            },
+            {
+                "token": "friend",
+                "weight": -0.32600364089012146
+            },
+            {
+                "token": "she",
+                "weight": -0.2735272943973541
+            },
+            {
+                "token": "has",
+                "weight": 0.16102325916290283
+            },
+            {
+                "token": "blackout",
+                "weight": -0.264604777097702
+            },
+            {
+                "token": "##s",
+                "weight": -0.020714107900857925
+            },
+            {
+                "token": "from",
+                "weight": -0.0229344479739666
+            },
+            {
+                "token": "drinking",
+                "weight": -0.01884051039814949
+            },
+            {
+                "token": "all",
+                "weight": 0.02815597504377365
+            },
+            {
+                "token": "the",
+                "weight": -0.012949429452419281
+            },
+            {
+                "token": "time",
+                "weight": 0.022038597613573074
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.7699736952781677
+            }
+        ]
+    },
+    {
+        "text": "soldier excited to take over father's old afghanistan patrol route",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.42758774757385254
+            },
+            {
+                "token": "soldier",
+                "weight": 0.3008418679237366
+            },
+            {
+                "token": "excited",
+                "weight": 0.11705052107572556
+            },
+            {
+                "token": "to",
+                "weight": -0.28148353099823
+            },
+            {
+                "token": "take",
+                "weight": -0.26656463742256165
+            },
+            {
+                "token": "over",
+                "weight": -0.24902381002902985
+            },
+            {
+                "token": "father",
+                "weight": -0.07441449165344238
+            },
+            {
+                "token": "'",
+                "weight": 0.08045824617147446
+            },
+            {
+                "token": "s",
+                "weight": 0.0648333802819252
+            },
+            {
+                "token": "old",
+                "weight": -0.1046542227268219
+            },
+            {
+                "token": "afghanistan",
+                "weight": -0.3210045099258423
+            },
+            {
+                "token": "patrol",
+                "weight": 0.21786095201969147
+            },
+            {
+                "token": "route",
+                "weight": 0.09723516553640366
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.5599381923675537
+            }
+        ]
+    },
+    {
+        "text": "innovative fat man combines waffles with ice cream",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.17996913194656372
+            },
+            {
+                "token": "innovative",
+                "weight": 0.5306086540222168
+            },
+            {
+                "token": "fat",
+                "weight": -0.0389692597091198
+            },
+            {
+                "token": "man",
+                "weight": -0.0032802517525851727
+            },
+            {
+                "token": "combines",
+                "weight": -0.1226411685347557
+            },
+            {
+                "token": "wa",
+                "weight": -0.0428972989320755
+            },
+            {
+                "token": "##ffle",
+                "weight": -0.10752327740192413
+            },
+            {
+                "token": "##s",
+                "weight": -0.06857957690954208
+            },
+            {
+                "token": "with",
+                "weight": -0.12717437744140625
+            },
+            {
+                "token": "ice",
+                "weight": -0.1667560487985611
+            },
+            {
+                "token": "cream",
+                "weight": -0.17702491581439972
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.7589940428733826
+            }
+        ]
+    },
+    {
+        "text": "report: increasing number of u.s. toddlers attending online preschool",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.23814766108989716
+            },
+            {
+                "token": "report",
+                "weight": 0.31157732009887695
+            },
+            {
+                "token": ":",
+                "weight": 0.2674811780452728
+            },
+            {
+                "token": "increasing",
+                "weight": -0.003228898858651519
+            },
+            {
+                "token": "number",
+                "weight": 0.03813770413398743
+            },
+            {
+                "token": "of",
+                "weight": -0.03547916188836098
+            },
+            {
+                "token": "u",
+                "weight": -0.04051557928323746
+            },
+            {
+                "token": ".",
+                "weight": -0.07920795679092407
+            },
+            {
+                "token": "s",
+                "weight": 0.10270925611257553
+            },
+            {
+                "token": ".",
+                "weight": -0.025585677474737167
+            },
+            {
+                "token": "todd",
+                "weight": -0.2554148733615875
+            },
+            {
+                "token": "##lers",
+                "weight": -0.10518064349889755
+            },
+            {
+                "token": "attending",
+                "weight": -0.14726033806800842
+            },
+            {
+                "token": "online",
+                "weight": -0.26404300332069397
+            },
+            {
+                "token": "preschool",
+                "weight": -0.06782545894384384
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.7619132399559021
+            }
+        ]
+    },
+    {
+        "text": "'greatest story ever told' has gimmicky deus ex machina ending",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.343179315328598
+            },
+            {
+                "token": "'",
+                "weight": 0.3398332893848419
+            },
+            {
+                "token": "greatest",
+                "weight": 0.02426363341510296
+            },
+            {
+                "token": "story",
+                "weight": 0.06600580364465714
+            },
+            {
+                "token": "ever",
+                "weight": -0.10120311379432678
+            },
+            {
+                "token": "told",
+                "weight": 0.08546514064073563
+            },
+            {
+                "token": "'",
+                "weight": -0.008686414919793606
+            },
+            {
+                "token": "has",
+                "weight": 0.03899621218442917
+            },
+            {
+                "token": "gi",
+                "weight": 0.0682668462395668
+            },
+            {
+                "token": "##mm",
+                "weight": -0.06898961961269379
+            },
+            {
+                "token": "##ick",
+                "weight": -0.06153261289000511
+            },
+            {
+                "token": "##y",
+                "weight": 0.024724427610635757
+            },
+            {
+                "token": "de",
+                "weight": 0.002349845366552472
+            },
+            {
+                "token": "##us",
+                "weight": -0.03702801093459129
+            },
+            {
+                "token": "ex",
+                "weight": -0.01778722181916237
+            },
+            {
+                "token": "mach",
+                "weight": -0.008858025074005127
+            },
+            {
+                "token": "##ina",
+                "weight": -0.14572611451148987
+            },
+            {
+                "token": "ending",
+                "weight": 0.0670260414481163
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.8374578952789307
+            }
+        ]
+    },
+    {
+        "text": "parents officially designate upstairs television for anyone who doesn't want to watch thanksgiving football",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.0886152908205986
+            },
+            {
+                "token": "parents",
+                "weight": 0.07885027676820755
+            },
+            {
+                "token": "officially",
+                "weight": 0.04226037114858627
+            },
+            {
+                "token": "designate",
+                "weight": -0.02302970550954342
+            },
+            {
+                "token": "upstairs",
+                "weight": -0.03422515094280243
+            },
+            {
+                "token": "television",
+                "weight": -0.0256944689899683
+            },
+            {
+                "token": "for",
+                "weight": 0.004993618465960026
+            },
+            {
+                "token": "anyone",
+                "weight": -0.03071543574333191
+            },
+            {
+                "token": "who",
+                "weight": -0.014622235670685768
+            },
+            {
+                "token": "doesn",
+                "weight": -0.0028831693343818188
+            },
+            {
+                "token": "'",
+                "weight": -0.03138350322842598
+            },
+            {
+                "token": "t",
+                "weight": -0.01608947105705738
+            },
+            {
+                "token": "want",
+                "weight": -0.02080751769244671
+            },
+            {
+                "token": "to",
+                "weight": 0.015113824978470802
+            },
+            {
+                "token": "watch",
+                "weight": 0.0027405007276684046
+            },
+            {
+                "token": "thanksgiving",
+                "weight": -0.022654248401522636
+            },
+            {
+                "token": "football",
+                "weight": 0.03276060149073601
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9884798526763916
+            }
+        ]
+    },
+    {
+        "text": "national filmstrip board calls for quiet",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.5260961055755615
+            },
+            {
+                "token": "national",
+                "weight": 0.3187786936759949
+            },
+            {
+                "token": "films",
+                "weight": 0.13089461624622345
+            },
+            {
+                "token": "##trip",
+                "weight": 0.1378888338804245
+            },
+            {
+                "token": "board",
+                "weight": -0.7227677702903748
+            },
+            {
+                "token": "calls",
+                "weight": -0.0551331602036953
+            },
+            {
+                "token": "for",
+                "weight": -0.06655707955360413
+            },
+            {
+                "token": "quiet",
+                "weight": 0.22482529282569885
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.07104243338108063
+            }
+        ]
+    },
+    {
+        "text": "nation's sane people to nation's insane people: 'please stop shooting us'",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.16868631541728973
+            },
+            {
+                "token": "nation",
+                "weight": 0.09761857986450195
+            },
+            {
+                "token": "'",
+                "weight": 0.07356284558773041
+            },
+            {
+                "token": "s",
+                "weight": 0.04063138738274574
+            },
+            {
+                "token": "sane",
+                "weight": 0.024680718779563904
+            },
+            {
+                "token": "people",
+                "weight": -0.006483632139861584
+            },
+            {
+                "token": "to",
+                "weight": -0.01275062095373869
+            },
+            {
+                "token": "nation",
+                "weight": 0.040422987192869186
+            },
+            {
+                "token": "'",
+                "weight": 0.003628065576776862
+            },
+            {
+                "token": "s",
+                "weight": 0.04402840510010719
+            },
+            {
+                "token": "insane",
+                "weight": 0.009801845997571945
+            },
+            {
+                "token": "people",
+                "weight": -0.028670620173215866
+            },
+            {
+                "token": ":",
+                "weight": -0.022643616423010826
+            },
+            {
+                "token": "'",
+                "weight": -0.04114731401205063
+            },
+            {
+                "token": "please",
+                "weight": -0.008395086973905563
+            },
+            {
+                "token": "stop",
+                "weight": -0.025472357869148254
+            },
+            {
+                "token": "shooting",
+                "weight": 0.06094023957848549
+            },
+            {
+                "token": "us",
+                "weight": 0.0022542160004377365
+            },
+            {
+                "token": "'",
+                "weight": -0.011170802637934685
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9710133075714111
+            }
+        ]
+    },
+    {
+        "text": "swans in committed relationship barely ever arch necks into heart shape anymore",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.108944833278656
+            },
+            {
+                "token": "swans",
+                "weight": 0.004877444822341204
+            },
+            {
+                "token": "in",
+                "weight": 0.036532528698444366
+            },
+            {
+                "token": "committed",
+                "weight": -0.0008825676632113755
+            },
+            {
+                "token": "relationship",
+                "weight": -0.08233262598514557
+            },
+            {
+                "token": "barely",
+                "weight": 0.038672588765621185
+            },
+            {
+                "token": "ever",
+                "weight": 0.004710265435278416
+            },
+            {
+                "token": "arch",
+                "weight": -0.025420332327485085
+            },
+            {
+                "token": "necks",
+                "weight": -0.013361021876335144
+            },
+            {
+                "token": "into",
+                "weight": 0.023631246760487556
+            },
+            {
+                "token": "heart",
+                "weight": -0.006670799106359482
+            },
+            {
+                "token": "shape",
+                "weight": 0.027739418670535088
+            },
+            {
+                "token": "anymore",
+                "weight": 0.009140383452177048
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9880257248878479
+            }
+        ]
+    },
+    {
+        "text": "smithsonian acquires rare photograph where whole family looks really nice",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.18735702335834503
+            },
+            {
+                "token": "smithsonian",
+                "weight": -0.09683923423290253
+            },
+            {
+                "token": "acquire",
+                "weight": 0.004541329573839903
+            },
+            {
+                "token": "##s",
+                "weight": 0.013773958198726177
+            },
+            {
+                "token": "rare",
+                "weight": -0.006173219997435808
+            },
+            {
+                "token": "photograph",
+                "weight": -0.058207347989082336
+            },
+            {
+                "token": "where",
+                "weight": 0.018684132024645805
+            },
+            {
+                "token": "whole",
+                "weight": 0.025125281885266304
+            },
+            {
+                "token": "family",
+                "weight": -0.03208443149924278
+            },
+            {
+                "token": "looks",
+                "weight": -0.015562943182885647
+            },
+            {
+                "token": "really",
+                "weight": -0.041264403611421585
+            },
+            {
+                "token": "nice",
+                "weight": -0.015043619088828564
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.9734998345375061
+            }
+        ]
+    },
+    {
+        "text": "north carolina residents terrified after hearing state passed new law",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.6997238993644714
+            },
+            {
+                "token": "north",
+                "weight": 0.2279314547777176
+            },
+            {
+                "token": "carolina",
+                "weight": 0.027441835030913353
+            },
+            {
+                "token": "residents",
+                "weight": -0.12648482620716095
+            },
+            {
+                "token": "terrified",
+                "weight": -0.39744654297828674
+            },
+            {
+                "token": "after",
+                "weight": -0.45991528034210205
+            },
+            {
+                "token": "hearing",
+                "weight": -0.012317881919443607
+            },
+            {
+                "token": "state",
+                "weight": -0.23261645436286926
+            },
+            {
+                "token": "passed",
+                "weight": -0.04696018248796463
+            },
+            {
+                "token": "new",
+                "weight": -0.11931102722883224
+            },
+            {
+                "token": "law",
+                "weight": -0.038382939994335175
+            },
+            {
+                "token": "[SEP]",
+                "weight": -0.004532595165073872
+            }
+        ]
+    },
+    {
+        "text": "aides trying to talk trump out of sending associates to break into watergate office complex",
+        "prediction": "Sarcastic",
+        "explanation": [
+            {
+                "token": "[CLS]",
+                "weight": 0.2646254301071167
+            },
+            {
+                "token": "aide",
+                "weight": 0.08586611598730087
+            },
+            {
+                "token": "##s",
+                "weight": 0.28944677114486694
+            },
+            {
+                "token": "trying",
+                "weight": 0.008648038841784
+            },
+            {
+                "token": "to",
+                "weight": -0.09719675779342651
+            },
+            {
+                "token": "talk",
+                "weight": -0.12121880799531937
+            },
+            {
+                "token": "trump",
+                "weight": -0.37333592772483826
+            },
+            {
+                "token": "out",
+                "weight": -0.24639898538589478
+            },
+            {
+                "token": "of",
+                "weight": 0.02951624058187008
+            },
+            {
+                "token": "sending",
+                "weight": -0.10085530579090118
+            },
+            {
+                "token": "associates",
+                "weight": -0.10184945911169052
+            },
+            {
+                "token": "to",
+                "weight": 0.053732529282569885
+            },
+            {
+                "token": "break",
+                "weight": 0.009211205877363682
+            },
+            {
+                "token": "into",
+                "weight": 0.043305084109306335
+            },
+            {
+                "token": "water",
+                "weight": -0.20427656173706055
+            },
+            {
+                "token": "##gate",
+                "weight": 0.05465833842754364
+            },
+            {
+                "token": "office",
+                "weight": -0.082484170794487
+            },
+            {
+                "token": "complex",
+                "weight": -0.3276718854904175
+            },
+            {
+                "token": "[SEP]",
+                "weight": 0.6552557349205017
+            }
+        ]
+    }
+]

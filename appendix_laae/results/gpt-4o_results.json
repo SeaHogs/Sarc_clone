@@ -1,0 +1,516 @@
+{
+    "model": "gpt-4o",
+    "confusion_matrix (TN, FP, FN, TP)": [
+        [
+            41,
+            9
+        ],
+        [
+            15,
+            35
+        ]
+    ],
+    "f1_score_sarcastic": 0.7446808510638298,
+    "individual_results": [
+        {
+            "headline": "vince gilligan's brain spoils final season of 'breaking bad' for vince gilligan",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "area man good for the economy",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "local tcby has missed past 2 logo changes",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "monster truck escapes",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "sausage storm grounds nation's airliners",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "darfur, ia also in pretty bad shape",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "u.s. border collie rounds up 11 million illegal immigrants",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "banana republic announces opening of new stores where buying pants will not be totally humiliating experience",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "contrarian amazon user completely upends critical consensus on microfiber towels",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "mom thought nfl's first openly gay player should have been drafted earlier",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "mom loved 'fruitvale station'",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "woman thinks she would make a great talk-show host",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "sun thinking of just collapsing now and getting this all over with",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "gop establishment relieved after conventionally abhorrent beliefs make way onto presidential ticket",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "optimist half full of shit",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "ad exec doesn't care what proverb actually means",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "nation excited to see whatever bile the internet spews up today",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "new envelope pushes envelope envelope",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "light playing beautifully off eric trump's gums at inaugural ball",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "woman dots her 'i's with cute round marks",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "smithsonian rejects tie dylan mcdermott wore in 'the practice'",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "grizzled band-aid weathers third shower",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "opera ends on unexpected high note",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "tour becoming one-on-one between guide and man who knew name of mckinley's assassin",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "al-qaeda sitcom filmed before live studio hostages",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "white house declares war on dsl provider",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "'i'm not really looking to date right now,' says man, as if he not at mercy of love's powerful, mysterious ways",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "stone-hearted ice witch forgoes exclamation point",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "mental illness determined not to let stigma of area man define it",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "secret service shuts down biden's unofficial white house tour operation",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "embarrassed library of congress can't believe some of the albums it used to be into",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "number of acceptable things candidates can say now down to four",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "alarming study finds 60% of americans don't know where their next value meal going to come from",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "local building accessible to only the strongest of the handicapped",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "water pistol fired using sideways gangsta grip",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "soldier excited to take over father's old afghanistan patrol route",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "parents officially designate upstairs television for anyone who doesn't want to watch thanksgiving football",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "man escapes eritrean civil war to clean martini puke from back of taxi",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "innovative fat man combines waffles with ice cream",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "national filmstrip board calls for quiet",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "nation's sane people to nation's insane people: 'please stop shooting us'",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "woman assures friend she has blackouts from drinking all the time",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "'greatest story ever told' has gimmicky deus ex machina ending",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "report: increasing number of u.s. toddlers attending online preschool",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "swans in committed relationship barely ever arch necks into heart shape anymore",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "north carolina residents terrified after hearing state passed new law",
+            "true_label": 1,
+            "prediction": 0
+        },
+        {
+            "headline": "smithsonian acquires rare photograph where whole family looks really nice",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "aides trying to talk trump out of sending associates to break into watergate office complex",
+            "true_label": 1,
+            "prediction": 1
+        },
+        {
+            "headline": "why run a writers' conference?",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "senators rip obama's 'flexible' interpretation of international drug controls",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "a ref's favorite team? i love 'em all",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "to the ladies who 'didn't need' the women's march",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "lyft and uber pull out of austin, but deceptive pricing is here to stay",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "trump administration seems to be winging it on food stamp replacement boxes",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "george w. bush throws shade at donald trump",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "tlc's my husband's not gay: damaging for mormons, especially gay mormon youth",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "hillary clinton and donald trump did not shake hands before their second debate",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "ailey dancers and the kids with disabilities: \"if a finger can move, they're a part of it\"",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "why we're lucky if we get to be old",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "anthony kennedy's citizens united disclosure salve 'not working'",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "businesses training to be alzheimer's friendly",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "rattlesnakes have been observed",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "david axelrod suggests hillary clinton will be seen as less complex alternative to obama",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "number one way to not forget your child in the car? be more present",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "you're 10 days away from more happiness",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "kate mara: it's 'quite an honor' to play a female superhero",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "domestic terrorists organizing online are 'real threat,' doj warns",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "trump confidant floats crazy rbg-for-merrick-garland scotus swap",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "kobe bryant feuds with michael b. jordan in spot-on apple tv ad",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "james corden making major changes to show after london attacks",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "abdul malik abdul kareem guilty of conspiring to support isis in texas attack",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "conceiving our chosen family",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "jailed for being too poor",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "turn your scraps of summer fruit into the most gorgeous ice cubes",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "netanyahu: playing us for fools",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "isis laid booby-traps all over mosul to kill, injure returning civilians",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "sanders hits bill clinton on welfare reform, trade",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "rise of the rest day 3: will \"the rise\" include everyone?",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "new year, new semester: college prep for juniors",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "the nfl should provide an exemption for medical marijuana",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "youth homelessness is an invisible issue, but it doesn't have to be",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "thousands protest in moscow against housing plan",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "i'm a straight business owner in mississippi and i'm horrified by my state's new anti-lgbtq law",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "barack obama records robocall for doug jones in alabama senate race",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "twitter users roast fbi over its ms paint-style holiday tweet",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "microsoft wants to let you know when the feds are snooping in your email",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "united airlines skips senate deadline to explain passenger-dragging incident",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "massive document leak reveals offshore wealth of putin and his allies",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "death toll from powerful mexico earthquake rises to 91",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "8 diy holiday gifts your friends will actually want",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "these incredible 3d models of star wars land are our only hope",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "i used an app to buy only ethical food. it was really hard.",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "obama calls baton rouge police shooting 'the work of cowards who speak for no one'",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "hillary clinton reveals what's more important than her campaign",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "if we treated other public health issues the way the pro-gun crowd treats shootings",
+            "true_label": 0,
+            "prediction": 1
+        },
+        {
+            "headline": "texas lt. gov. not worried about bathroom bill costing the state money",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "el salvador is on track to become world homicide leader",
+            "true_label": 0,
+            "prediction": 0
+        },
+        {
+            "headline": "japan's economy emerges from recession, growth weaker than forecast",
+            "true_label": 0,
+            "prediction": 0
+        }
+    ]
+}

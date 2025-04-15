@@ -1,0 +1,1466 @@
+[
+    {
+        "text": "mom thought nfl's first openly gay player should have been drafted earlier",
+        "prediction": "Not Sarcastic",
+        "explanation": [
+            [
+                "player",
+                -0.40266541249122717
+            ],
+            [
+                "gay",
+                -0.3186297415247537
+            ],
+            [
+                "nfl",
+                -0.2868944574681795
+            ],
+            [
+                "openly",
+                -0.198027757552783
+            ],
+            [
+                "earlier",
+                0.17881535791391895
+            ],
+            [
+                "drafted",
+                -0.14471993162758645
+            ]
+        ]
+    },
+    {
+        "text": "banana republic announces opening of new stores where buying pants will not be totally humiliating experience",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "announces",
+                0.06459920500092997
+            ],
+            [
+                "totally",
+                0.04848984793767543
+            ],
+            [
+                "be",
+                -0.040187822842793194
+            ],
+            [
+                "not",
+                0.040028790468735385
+            ],
+            [
+                "of",
+                0.026192791257140104
+            ],
+            [
+                "banana",
+                0.025908341235867487
+            ]
+        ]
+    },
+    {
+        "text": "local tcby has missed past 2 logo changes",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "local",
+                0.574973544515605
+            ],
+            [
+                "changes",
+                -0.23354336822855698
+            ],
+            [
+                "logo",
+                0.13106081754414578
+            ],
+            [
+                "2",
+                -0.13095992294213651
+            ],
+            [
+                "past",
+                0.11265898138145246
+            ],
+            [
+                "missed",
+                -0.08248376919350187
+            ]
+        ]
+    },
+    {
+        "text": "vince gilligan's brain spoils final season of 'breaking bad' for vince gilligan",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "brain",
+                0.37714587290646284
+            ],
+            [
+                "final",
+                0.22156227221796265
+            ],
+            [
+                "season",
+                0.15301977665628894
+            ],
+            [
+                "breaking",
+                -0.1398585156695279
+            ],
+            [
+                "gilligan",
+                0.13969342538992519
+            ],
+            [
+                "vince",
+                -0.10809142262410149
+            ]
+        ]
+    },
+    {
+        "text": "area man good for the economy",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "area",
+                0.2705994674720995
+            ],
+            [
+                "good",
+                0.1904870640169588
+            ],
+            [
+                "man",
+                0.1887362141122624
+            ],
+            [
+                "for",
+                0.12336875090395495
+            ],
+            [
+                "the",
+                -0.09680764971834524
+            ],
+            [
+                "economy",
+                -0.009424273682701101
+            ]
+        ]
+    },
+    {
+        "text": "darfur, ia also in pretty bad shape",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "ia",
+                0.36804274203054294
+            ],
+            [
+                "pretty",
+                0.2249516779536261
+            ],
+            [
+                "bad",
+                0.15471712781345812
+            ],
+            [
+                "also",
+                0.12019817405648668
+            ],
+            [
+                "in",
+                -0.10211151062582749
+            ],
+            [
+                "shape",
+                0.08425611149835369
+            ]
+        ]
+    },
+    {
+        "text": "sausage storm grounds nation's airliners",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "nation",
+                0.4131901270181943
+            ],
+            [
+                "grounds",
+                0.19763879826775074
+            ],
+            [
+                "s",
+                0.17259355264630055
+            ],
+            [
+                "sausage",
+                0.09796538345070759
+            ],
+            [
+                "airliners",
+                0.01325531001833771
+            ],
+            [
+                "storm",
+                0.006734774875758303
+            ]
+        ]
+    },
+    {
+        "text": "contrarian amazon user completely upends critical consensus on microfiber towels",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "contrarian",
+                0.12201786003968171
+            ],
+            [
+                "upends",
+                0.11671304535941435
+            ],
+            [
+                "completely",
+                0.1080720752261984
+            ],
+            [
+                "user",
+                0.1032186478178917
+            ],
+            [
+                "microfiber",
+                0.07160804159577744
+            ],
+            [
+                "amazon",
+                0.049314285584589064
+            ]
+        ]
+    },
+    {
+        "text": "u.s. border collie rounds up 11 million illegal immigrants",
+        "prediction": "Not Sarcastic",
+        "explanation": [
+            [
+                "immigrants",
+                -0.4475040487870579
+            ],
+            [
+                "rounds",
+                -0.26629032179137574
+            ],
+            [
+                "u",
+                0.2607867953895553
+            ],
+            [
+                "11",
+                -0.2167141174006898
+            ],
+            [
+                "million",
+                0.21260429590152014
+            ],
+            [
+                "s",
+                0.20757658072828908
+            ]
+        ]
+    },
+    {
+        "text": "monster truck escapes",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "truck",
+                0.39212477787183336
+            ],
+            [
+                "monster",
+                0.30745599538155977
+            ],
+            [
+                "escapes",
+                0.13424579750025503
+            ]
+        ]
+    },
+    {
+        "text": "mom loved 'fruitvale station'",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "mom",
+                0.8506696228306706
+            ],
+            [
+                "fruitvale",
+                0.11303528434120702
+            ],
+            [
+                "station",
+                0.0977814488851295
+            ],
+            [
+                "loved",
+                0.09107716562070664
+            ]
+        ]
+    },
+    {
+        "text": "gop establishment relieved after conventionally abhorrent beliefs make way onto presidential ticket",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "relieved",
+                0.0853522327978269
+            ],
+            [
+                "make",
+                0.08044985750278384
+            ],
+            [
+                "conventionally",
+                0.07321244857788535
+            ],
+            [
+                "onto",
+                0.05599384814534623
+            ],
+            [
+                "way",
+                0.048491044281843164
+            ],
+            [
+                "presidential",
+                -0.03173832917318482
+            ]
+        ]
+    },
+    {
+        "text": "sun thinking of just collapsing now and getting this all over with",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "sun",
+                0.6370713329871629
+            ],
+            [
+                "and",
+                -0.2375730556574782
+            ],
+            [
+                "thinking",
+                0.13244177638917157
+            ],
+            [
+                "now",
+                0.11506210385670229
+            ],
+            [
+                "collapsing",
+                0.09966709312037089
+            ],
+            [
+                "just",
+                0.09586160809040067
+            ]
+        ]
+    },
+    {
+        "text": "optimist half full of shit",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "optimist",
+                0.24448755859949503
+            ],
+            [
+                "shit",
+                0.1313036887724329
+            ],
+            [
+                "half",
+                0.10673565386639541
+            ],
+            [
+                "full",
+                0.09237422529218224
+            ],
+            [
+                "of",
+                0.023345895623958102
+            ]
+        ]
+    },
+    {
+        "text": "nation excited to see whatever bile the internet spews up today",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "nation",
+                0.43733183408222354
+            ],
+            [
+                "excited",
+                0.21112071682460273
+            ],
+            [
+                "up",
+                0.13939088900170143
+            ],
+            [
+                "see",
+                -0.11927762404059412
+            ],
+            [
+                "to",
+                -0.10002493951319409
+            ],
+            [
+                "today",
+                -0.09623626154636389
+            ]
+        ]
+    },
+    {
+        "text": "woman thinks she would make a great talk-show host",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "woman",
+                0.32997379012146605
+            ],
+            [
+                "thinks",
+                0.23097605788641495
+            ],
+            [
+                "a",
+                -0.11001851920931335
+            ],
+            [
+                "would",
+                -0.054089572183094785
+            ],
+            [
+                "show",
+                -0.043993528275378516
+            ],
+            [
+                "she",
+                -0.04334056289823659
+            ]
+        ]
+    },
+    {
+        "text": "ad exec doesn't care what proverb actually means",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "care",
+                0.2309128514965136
+            ],
+            [
+                "actually",
+                0.1406943604810221
+            ],
+            [
+                "doesn",
+                0.13647585465388726
+            ],
+            [
+                "means",
+                -0.10277419563335084
+            ],
+            [
+                "proverb",
+                0.05775351988380261
+            ],
+            [
+                "what",
+                0.055502089462589665
+            ]
+        ]
+    },
+    {
+        "text": "opera ends on unexpected high note",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "ends",
+                0.4240491475019037
+            ],
+            [
+                "opera",
+                0.15180122395255746
+            ],
+            [
+                "high",
+                0.10333979600975554
+            ],
+            [
+                "note",
+                0.09504132985568994
+            ],
+            [
+                "on",
+                -0.051924709031067016
+            ],
+            [
+                "unexpected",
+                0.027826463421449014
+            ]
+        ]
+    },
+    {
+        "text": "shelling from royal caribbean's m.s. 'allure' sinks carnival cruise vessel that crossed into disputed waters",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "shelling",
+                0.47233824657612555
+            ],
+            [
+                "sinks",
+                0.276737236705617
+            ],
+            [
+                "carnival",
+                0.20645942847504822
+            ],
+            [
+                "waters",
+                -0.16521905540989062
+            ],
+            [
+                "m",
+                -0.1320677582310918
+            ],
+            [
+                "that",
+                0.10397274591542811
+            ]
+        ]
+    },
+    {
+        "text": "new envelope pushes envelope envelope",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "envelope",
+                0.7180095453346222
+            ],
+            [
+                "pushes",
+                -0.21582968535805835
+            ],
+            [
+                "new",
+                -0.04299557671743883
+            ]
+        ]
+    },
+    {
+        "text": "smithsonian rejects tie dylan mcdermott wore in 'the practice'",
+        "prediction": "Not Sarcastic",
+        "explanation": [
+            [
+                "smithsonian",
+                0.3566642869264762
+            ],
+            [
+                "mcdermott",
+                -0.3323271841214466
+            ],
+            [
+                "wore",
+                -0.08040500101643175
+            ],
+            [
+                "dylan",
+                -0.07167385438834954
+            ],
+            [
+                "in",
+                -0.053695329898835624
+            ],
+            [
+                "practice",
+                0.05238545211261243
+            ]
+        ]
+    },
+    {
+        "text": "woman dots her 'i's with cute round marks",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "woman",
+                0.5703759334373052
+            ],
+            [
+                "round",
+                0.12590591160689316
+            ],
+            [
+                "marks",
+                -0.1162189863518287
+            ],
+            [
+                "s",
+                0.08120159001046959
+            ],
+            [
+                "dots",
+                -0.0722361447662653
+            ],
+            [
+                "i",
+                -0.06121846794756195
+            ]
+        ]
+    },
+    {
+        "text": "grizzled band-aid weathers third shower",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "grizzled",
+                0.31484000937344775
+            ],
+            [
+                "weathers",
+                0.17462259319359433
+            ],
+            [
+                "shower",
+                0.1167509751836481
+            ],
+            [
+                "aid",
+                0.09008626169505166
+            ],
+            [
+                "band",
+                0.0657050626765861
+            ],
+            [
+                "third",
+                0.04960757452011291
+            ]
+        ]
+    },
+    {
+        "text": "light playing beautifully off eric trump's gums at inaugural ball",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "light",
+                0.42561868870053343
+            ],
+            [
+                "playing",
+                0.3657854186648628
+            ],
+            [
+                "trump",
+                -0.30417795777146506
+            ],
+            [
+                "beautifully",
+                0.28122473952046856
+            ],
+            [
+                "inaugural",
+                -0.13128850042149892
+            ],
+            [
+                "off",
+                0.11134700471286027
+            ]
+        ]
+    },
+    {
+        "text": "al-qaeda sitcom filmed before live studio hostages",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "al",
+                0.3191989409641442
+            ],
+            [
+                "sitcom",
+                0.22474547205765033
+            ],
+            [
+                "filmed",
+                0.19398228127109235
+            ],
+            [
+                "qaeda",
+                0.19174713844540897
+            ],
+            [
+                "studio",
+                0.13713146960641834
+            ],
+            [
+                "before",
+                -0.13550071260343682
+            ]
+        ]
+    },
+    {
+        "text": "tour becoming one-on-one between guide and man who knew name of mckinley's assassin",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "on",
+                0.3641417153552886
+            ],
+            [
+                "and",
+                -0.23317439094356537
+            ],
+            [
+                "knew",
+                0.19710991547953088
+            ],
+            [
+                "name",
+                0.1951262446457951
+            ],
+            [
+                "man",
+                0.17041304116754066
+            ],
+            [
+                "tour",
+                0.1639045185328885
+            ]
+        ]
+    },
+    {
+        "text": "neighborhood has gotten a lot safer since mayor vanquished fire troll",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "since",
+                0.12212714978184906
+            ],
+            [
+                "neighborhood",
+                0.10677939120846118
+            ],
+            [
+                "gotten",
+                0.09860025707686942
+            ],
+            [
+                "a",
+                -0.09681887627540291
+            ],
+            [
+                "lot",
+                0.09605944620114461
+            ],
+            [
+                "troll",
+                0.053594689125175836
+            ]
+        ]
+    },
+    {
+        "text": "'i'm not really looking to date right now,' says man, as if he not at mercy of love's powerful, mysterious ways",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "man",
+                0.2157147620008271
+            ],
+            [
+                "says",
+                0.1894950355440134
+            ],
+            [
+                "date",
+                0.12031890793488054
+            ],
+            [
+                "really",
+                0.11580755010950382
+            ],
+            [
+                "not",
+                0.07927572359486638
+            ],
+            [
+                "s",
+                0.0717818937428181
+            ]
+        ]
+    },
+    {
+        "text": "white house declares war on dsl provider",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "declares",
+                0.5747934280860821
+            ],
+            [
+                "dsl",
+                -0.27864308533357046
+            ],
+            [
+                "white",
+                0.17333707892146574
+            ],
+            [
+                "war",
+                0.11226486331821779
+            ],
+            [
+                "provider",
+                0.10790012543583723
+            ],
+            [
+                "house",
+                -0.07405649852505561
+            ]
+        ]
+    },
+    {
+        "text": "mental illness determined not to let stigma of area man define it",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "area",
+                0.10863042386528071
+            ],
+            [
+                "illness",
+                0.09740752381795813
+            ],
+            [
+                "man",
+                0.07820092016194935
+            ],
+            [
+                "of",
+                0.06157815399829492
+            ],
+            [
+                "mental",
+                0.06019804513065944
+            ],
+            [
+                "to",
+                -0.04408826907012848
+            ]
+        ]
+    },
+    {
+        "text": "stone-hearted ice witch forgoes exclamation point",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "stone",
+                0.3027503641775378
+            ],
+            [
+                "hearted",
+                0.26431958157217916
+            ],
+            [
+                "exclamation",
+                0.20653573081758406
+            ],
+            [
+                "forgoes",
+                0.13825378843800515
+            ],
+            [
+                "ice",
+                0.04376211307305895
+            ],
+            [
+                "witch",
+                -0.029945773521308883
+            ]
+        ]
+    },
+    {
+        "text": "embarrassed library of congress can't believe some of the albums it used to be into",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "t",
+                0.05936280931979081
+            ],
+            [
+                "library",
+                0.05868008225879715
+            ],
+            [
+                "can",
+                0.05820017869759039
+            ],
+            [
+                "congress",
+                0.05485970010558328
+            ],
+            [
+                "embarrassed",
+                0.04371310689352259
+            ],
+            [
+                "it",
+                0.03713298182008464
+            ]
+        ]
+    },
+    {
+        "text": "secret service shuts down biden's unofficial white house tour operation",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "service",
+                0.38796306178603235
+            ],
+            [
+                "shuts",
+                0.27488570605947643
+            ],
+            [
+                "biden",
+                0.16842658254609433
+            ],
+            [
+                "secret",
+                0.12082891115374549
+            ],
+            [
+                "s",
+                -0.11461312296162143
+            ],
+            [
+                "tour",
+                -0.11394200074082858
+            ]
+        ]
+    },
+    {
+        "text": "number of acceptable things candidates can say now down to four",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "number",
+                0.17432202631591076
+            ],
+            [
+                "down",
+                0.14940792338140488
+            ],
+            [
+                "can",
+                0.10671561884911021
+            ],
+            [
+                "acceptable",
+                -0.10113617813152279
+            ],
+            [
+                "to",
+                0.09261547696078108
+            ],
+            [
+                "of",
+                0.04999287773463015
+            ]
+        ]
+    },
+    {
+        "text": "water pistol fired using sideways gangsta grip",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "pistol",
+                0.1962853447897357
+            ],
+            [
+                "fired",
+                0.19551679250154907
+            ],
+            [
+                "gangsta",
+                0.11562797029155478
+            ],
+            [
+                "sideways",
+                0.11119416799217967
+            ],
+            [
+                "water",
+                0.0816596374270808
+            ],
+            [
+                "grip",
+                -0.03458823117488921
+            ]
+        ]
+    },
+    {
+        "text": "local building accessible to only the strongest of the handicapped",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "local",
+                0.2523942678807833
+            ],
+            [
+                "the",
+                -0.23733204460728868
+            ],
+            [
+                "building",
+                0.20163013448604183
+            ],
+            [
+                "accessible",
+                0.19429360733311285
+            ],
+            [
+                "only",
+                0.1442278680200032
+            ],
+            [
+                "of",
+                -0.059155489969086816
+            ]
+        ]
+    },
+    {
+        "text": "alarming study finds 60% of americans don't know where their next value meal going to come from",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "study",
+                0.010826339106711831
+            ],
+            [
+                "americans",
+                0.009730641800058348
+            ],
+            [
+                "from",
+                0.008747635557343134
+            ],
+            [
+                "where",
+                0.007801585029766024
+            ],
+            [
+                "t",
+                0.006394480948332492
+            ],
+            [
+                "meal",
+                0.00442955849997794
+            ]
+        ]
+    },
+    {
+        "text": "man escapes eritrean civil war to clean martini puke from back of taxi",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "back",
+                0.2308769070697198
+            ],
+            [
+                "eritrean",
+                -0.1328994803712445
+            ],
+            [
+                "war",
+                -0.1059710028498469
+            ],
+            [
+                "escapes",
+                -0.09944289452102592
+            ],
+            [
+                "taxi",
+                -0.09074039068778045
+            ],
+            [
+                "man",
+                -0.06972920257023499
+            ]
+        ]
+    },
+    {
+        "text": "woman assures friend she has blackouts from drinking all the time",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "friend",
+                0.10240306015867409
+            ],
+            [
+                "woman",
+                0.10154248122254235
+            ],
+            [
+                "assures",
+                0.07797551128691418
+            ],
+            [
+                "drinking",
+                0.06500978643865164
+            ],
+            [
+                "time",
+                0.04730659911295184
+            ],
+            [
+                "the",
+                -0.030557981224628064
+            ]
+        ]
+    },
+    {
+        "text": "soldier excited to take over father's old afghanistan patrol route",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "soldier",
+                0.41578869136744706
+            ],
+            [
+                "take",
+                0.08984053295906305
+            ],
+            [
+                "excited",
+                0.08914701495557548
+            ],
+            [
+                "patrol",
+                0.07939662565546157
+            ],
+            [
+                "father",
+                0.06602332947784913
+            ],
+            [
+                "route",
+                -0.05476382518649353
+            ]
+        ]
+    },
+    {
+        "text": "innovative fat man combines waffles with ice cream",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "combines",
+                0.43080647596440885
+            ],
+            [
+                "man",
+                0.2774490221176879
+            ],
+            [
+                "innovative",
+                0.06366761281396029
+            ],
+            [
+                "cream",
+                0.05680583779382386
+            ],
+            [
+                "fat",
+                0.04800502194941376
+            ],
+            [
+                "ice",
+                -0.030747017616436462
+            ]
+        ]
+    },
+    {
+        "text": "report: increasing number of u.s. toddlers attending online preschool",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "report",
+                0.837492507697263
+            ],
+            [
+                "preschool",
+                -0.05416023188142782
+            ],
+            [
+                "toddlers",
+                -0.041880673047260286
+            ],
+            [
+                "of",
+                0.03501263877144511
+            ],
+            [
+                "attending",
+                0.034531753278307493
+            ],
+            [
+                "u",
+                -0.01782560284842448
+            ]
+        ]
+    },
+    {
+        "text": "'greatest story ever told' has gimmicky deus ex machina ending",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "has",
+                0.26108560864914904
+            ],
+            [
+                "gimmicky",
+                0.2017547900171063
+            ],
+            [
+                "ending",
+                0.19910711180709456
+            ],
+            [
+                "ex",
+                0.1635488840978748
+            ],
+            [
+                "story",
+                0.10051808297278267
+            ],
+            [
+                "greatest",
+                -0.062189500872092185
+            ]
+        ]
+    },
+    {
+        "text": "parents officially designate upstairs television for anyone who doesn't want to watch thanksgiving football",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "upstairs",
+                0.18588733645452388
+            ],
+            [
+                "parents",
+                0.15438778653066804
+            ],
+            [
+                "t",
+                0.1353376436299778
+            ],
+            [
+                "want",
+                -0.10186395125015997
+            ],
+            [
+                "anyone",
+                0.09376266223695083
+            ],
+            [
+                "football",
+                -0.06420814368054276
+            ]
+        ]
+    },
+    {
+        "text": "national filmstrip board calls for quiet",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "filmstrip",
+                0.15653000901942954
+            ],
+            [
+                "national",
+                0.11252162119998682
+            ],
+            [
+                "board",
+                0.111258509425411
+            ],
+            [
+                "quiet",
+                0.10503041795816163
+            ],
+            [
+                "for",
+                0.07523992635277899
+            ],
+            [
+                "calls",
+                0.06476490326235781
+            ]
+        ]
+    },
+    {
+        "text": "nation's sane people to nation's insane people: 'please stop shooting us'",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "nation",
+                0.40462552370901667
+            ],
+            [
+                "please",
+                0.11343073300175548
+            ],
+            [
+                "stop",
+                -0.10583945989197661
+            ],
+            [
+                "people",
+                0.08664018246359123
+            ],
+            [
+                "s",
+                0.08277030859568618
+            ],
+            [
+                "to",
+                -0.061125567328906595
+            ]
+        ]
+    },
+    {
+        "text": "swans in committed relationship barely ever arch necks into heart shape anymore",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "committed",
+                0.08535042218798747
+            ],
+            [
+                "relationship",
+                0.07763655720380368
+            ],
+            [
+                "anymore",
+                0.0759173287324675
+            ],
+            [
+                "swans",
+                0.06469499370286731
+            ],
+            [
+                "into",
+                0.061339211425612376
+            ],
+            [
+                "barely",
+                0.05955424953350629
+            ]
+        ]
+    },
+    {
+        "text": "smithsonian acquires rare photograph where whole family looks really nice",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "nice",
+                0.0256488263354314
+            ],
+            [
+                "smithsonian",
+                0.02550996479560019
+            ],
+            [
+                "rare",
+                0.019386654147542804
+            ],
+            [
+                "whole",
+                0.013152711353779352
+            ],
+            [
+                "acquires",
+                0.012127140408019241
+            ],
+            [
+                "where",
+                0.009933298036202437
+            ]
+        ]
+    },
+    {
+        "text": "north carolina residents terrified after hearing state passed new law",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "terrified",
+                0.38943388785210303
+            ],
+            [
+                "passed",
+                0.25503945040263826
+            ],
+            [
+                "after",
+                0.11883916718281348
+            ],
+            [
+                "new",
+                0.09841817478923183
+            ],
+            [
+                "carolina",
+                -0.09629149516041177
+            ],
+            [
+                "north",
+                -0.06934684444412853
+            ]
+        ]
+    },
+    {
+        "text": "aides trying to talk trump out of sending associates to break into watergate office complex",
+        "prediction": "Sarcastic",
+        "explanation": [
+            [
+                "trump",
+                -0.579475589071359
+            ],
+            [
+                "aides",
+                0.2766867909362373
+            ],
+            [
+                "into",
+                0.1651761754635041
+            ],
+            [
+                "trying",
+                0.13395526385705483
+            ],
+            [
+                "office",
+                0.11457138921968843
+            ],
+            [
+                "complex",
+                0.1133523241854116
+            ]
+        ]
+    }
+]

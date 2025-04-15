@@ -1,0 +1,602 @@
+[
+  {
+    "headline": "former versace store clerk sues over secret 'black code' for minority shoppers",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "the 'roseanne' revival catches up to our thorny political mood, for better and worse",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "mom starting to fear son's web series closest thing she will have to grandchild",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "boehner just wants wife to listen, not come up with alternative debt-reduction ideas",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "j.k. rowling wishes snape happy birthday in the most magical way",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "advancing the world's women",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "the fascinating case for eating lab-grown meat",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "this ceo will send your kids to school, if you work for his company",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "top snake handler leaves sinking huckabee campaign",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "friday's morning email: inside trump's presser for the ages",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "airline passengers tackle man who rushes cockpit in bomb threat",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "facebook reportedly working on healthcare features and apps",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "north korea praises trump and urges us voters to reject 'dull hillary'",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "actually, cnn's jeffrey lord has been 'indefensible' for a while",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "barcelona holds huge protest in support of refugees",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "nuclear bomb detonates during rehearsal for 'spider-man' musical",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "cosby lawyer asks why accusers didn't come forward to be smeared by legal team years ago",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "stock analysts confused, frightened by boar market",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "bloomberg's program to build better cities just got bigger",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "craig hicks indicted",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "courtroom sketch artist has clear manga influences",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "trump assures nation that decision for syrian airstrikes came after carefully considering all his passing whims",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "qatar deporting dutch woman who reported she was drugged and raped",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "this is why you shouldn't go to the circus",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "ted cruz hits the panic button: 'we could lose both houses of congress'",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "why writers must plan to be surprised",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "obama visits arlington national cemetery to honor veterans",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "ex-con back behind bar",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "after careful consideration, bush recommends oil drilling",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "remembrance is the beginning of the task",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "allies: islamist motive for killing nemtsov is nonsense",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "gillian jacobs on what it's like to kiss adam brody",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "uber vows to repay nyc drivers 'tens of millions' after tax snafu",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "apple may have poached electric motorcycle company to death",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "drug-resistant bacteria often lurk in children's, dogs' sandboxes",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "if you see a muslim at the airport",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "giant altoid heading toward earth",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "'moana' sails straight to the top of the box office with massive $81.1 million opening",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "selig counted money while baseball lost the next generation of fans",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "robin williams inflicted on holiday moviegoers for eighth straight year",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "devin nunes vows to 'never' reveal source of surveillance claims",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "scott used to stop breathing nearly 40 times an hour. this device changed his life",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "rescuers heroically help beached garbage back into ocean",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "medics drop soccer player from stretcher; he's ticked",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "give the gift of play this holiday season",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "christian bale visits sikh temple victims",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "spicer denies that ending maternity care guarantee would mean women pay more for health care",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "'right to live life in complete, stunned horror,' added to constitution",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "nasa now almost positive mars is rocky",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "monster undeterred by night-light",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "diy: sports equipment closet",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "1 dead, 3 injured in shooting at t.i. concert in nyc",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "longtime teacher retires without changing a single student's life",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "donald trump heading for a series of wins in the northeast, polls say",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "donald trump wouldn't have had the ready cash to self-finance entire campaign \u2014 analysis",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "new 'star wars' film once again disappoints die-hard nien nunb fans",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "bats shooed out of nation's waterslide tunnels in preparation for summer",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "mobile news crew reports on own van breaking down",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "un rights chief calls humanitarian situation in syria 'an outrage'",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "how to track santa claus' flight around the world this christmas eve",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "obama has colorado appraised",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "trouble again in tv's africa",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "brita unveils new in-throat water filters",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "report: john grisham slowly but surely climbing list of greatest living american authors",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "ghost can't make a simple cup of coffee without everyone freaking out",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "tupperware will never truly recover from red curry leftovers",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "one of the planet's most powerful forces for change? an adolescent girl",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "how does draymond green take his game to the next level? by tuning in to the wnba",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "area woman said 'sorry' 118 times yesterday",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "ryan lochte apologizes for behavior in rio",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "north dakota not heard from in 48 hours",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "4 lessons prison taught me about power and control",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "sick fucks line up to gape at dead body",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "what is america's first muslim fraternity really like?",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "the vicious knot of syria, the untangling process contains solutions in our time",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "this congressman thinks we can fix the economy by drinking beer",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "breast implants found to cause problems in laboratory mice",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "trump orders strikes on syria in retaliation for chemical attack",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "ceo's funeral a networking dream",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "year-round schooling: how it would help minority students",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "90 zen teachers pledge to change culture that fosters abuse",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "nypd weighs allowing chokeholds following eric garner death",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "sonny bono foundation prevents at-risk youths from skiing into trees",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "pope francis reminds the world that caring for the earth is everyone's responsibility",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "6-year-old cries when told mtm productions kitten dead by now",
+    "true_label": 1,
+    "predicted_label": 0,
+    "correct": false
+  },
+  {
+    "headline": "ex-boyfriend just thought he'd check in and throw entire day off",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "doctors restore ken burns' full-color vision after removing massive tumor from filmmaker's visual cortex",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "'gravity' & '12 years a slave' tie at 2014 pga awards",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "for national coming out day, 150 lgbtq sports people who have come out in the last year",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "john oliver lays out the most disturbing ways in which trump impacts america",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "house gop crackdown continues",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "'i must make sure you have the skills to please my grandson,' says queen elizabeth disrobing before meghan markle",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "man visiting hometown amazed to find all his childhood insecurities still there",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "look: world cup star attacked by giant bug",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "clinton becomes first president to clear 18 feet in pole vault",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "hunter s. thompson shoots mouth off one last time",
+    "true_label": 1,
+    "predicted_label": 1,
+    "correct": true
+  },
+  {
+    "headline": "inhofe's grand climate conspiracy theory: it's all about barbra streisand",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "5 questions i wish younger people would stop asking me",
+    "true_label": 0,
+    "predicted_label": 1,
+    "correct": false
+  },
+  {
+    "headline": "albuquerque shooter on the loose; gunman leaves 1 dead, 3 injured",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  },
+  {
+    "headline": "what it's like to lose everything in a flood",
+    "true_label": 0,
+    "predicted_label": 0,
+    "correct": true
+  }
+]

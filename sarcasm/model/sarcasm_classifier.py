@@ -38,6 +38,10 @@ class SarcasmClassifier(abc.ABC):
     def load_model(self, model_name):
         pass
 
+    @abc.abstractmethod
+    def get_embeddings(self, text):
+        pass
+
     def __init__(self, device: Optional[torch.device] = None):
         if device is None:
             device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -63,19 +67,7 @@ class SarcasmClassifier(abc.ABC):
         if optimizer is None:
             optimizer = AdamW(self.model.parameters(), lr=1e-5)
 
-        def tokenize_function(examples):
-            return self.tokenizer(
-                examples["headline"],
-                truncation=True,
-                padding="max_length",
-                max_length=64,
-            )
-
-        tokenized_dataset = dataset.map(tokenize_function, batched=True)
-        tokenized_dataset = tokenized_dataset.remove_columns(["headline"])
-        tokenized_dataset = tokenized_dataset.rename_column("is_sarcastic", "labels")
-
-        tokenized_dataset.set_format("torch")
+        tokenized_dataset = self.tokenize(dataset)
 
         train_dataloader = DataLoader(
             tokenized_dataset,
@@ -106,11 +98,29 @@ class SarcasmClassifier(abc.ABC):
                 optimizer.zero_grad()
                 progress_bar.update(1)
 
+    def tokenize(self, dataset: Dataset):
+        def tokenize_function(examples):
+            return self.tokenizer(
+                examples["headline"],
+                truncation=True,
+                padding="max_length",
+                max_length=64,
+            )
+
+        tokenized_dataset = dataset.map(tokenize_function, batched=True)
+        tokenized_dataset = tokenized_dataset.remove_columns(["headline"])
+        tokenized_dataset = tokenized_dataset.rename_column("is_sarcastic", "labels")
+
+        tokenized_dataset.set_format("torch")
+        return tokenized_dataset
+
     def predict(self, text):
         self.model.eval()
         inputs = self.tokenizer(text, return_tensors="pt", padding=True)
-        outputs = self.model(**inputs)
-        return outputs.logits.argmax(dim=1)
+        inputs = {k: v.to(self.device) for k, v in inputs.items()}
+        with torch.no_grad():
+            outputs = self.model(**inputs)
+        return outputs.logits
 
     def evaluate(self, dataset: Dataset, metric: Optional[str] = None):
         if metric is None:
@@ -123,7 +133,7 @@ class SarcasmClassifier(abc.ABC):
             model_or_pipeline=self.model,
             data=dataset,
             metric=metric,
-            label_mapping={"NEGATIVE": 0.0, "POSITIVE": 1.0},
+            label_mapping={"LABEL_0": 0.0, "LABEL_1": 1.0},
             strategy="bootstrap",
             tokenizer=self.tokenizer,
             input_column="headline",
@@ -168,6 +178,9 @@ class SarcasmClassifierBertFcnn(SarcasmClassifier):
         )
         self.model.to(self.device)
 
+    def get_embeddings(self):
+        return self.model.bert.embeddings
+
 
 class SarcasmClassifierAlbertFcnn(SarcasmClassifier):
     """
@@ -176,6 +189,8 @@ class SarcasmClassifierAlbertFcnn(SarcasmClassifier):
 
     MODEL_NAME = "albert-base-uncased-24-finepruned-sarcasm-detection"
     PRETRAINED_MODEL = "albert/albert-base-v1"
+
+    SPIECE_UNDERLINE = "▁"
 
     def load_tokenizer(self, model_name):
         self.tokenizer = AlbertTokenizer.from_pretrained(
@@ -187,6 +202,9 @@ class SarcasmClassifierAlbertFcnn(SarcasmClassifier):
             model_name, num_labels=2
         )
         self.model.to(self.device)
+
+    def get_embeddings(self):
+        return self.model.albert.embeddings
 
 
 class SarcasmClassifierRobertaFcnn(SarcasmClassifier):
@@ -207,6 +225,9 @@ class SarcasmClassifierRobertaFcnn(SarcasmClassifier):
             model_name, num_labels=2
         )
         self.model.to(self.device)
+
+    def get_embeddings(self):
+        return self.model.roberta.embeddings
 
 
 class SarcasmClassifierBart(SarcasmClassifier):

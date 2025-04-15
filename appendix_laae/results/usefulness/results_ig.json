@@ -1,0 +1,14 @@
+{
+  "general": {
+    "usefulness": 0.033663838013837995,
+    "noise_ratio": 0.5041843711843712,
+    "info_score": 0.5133333333333333,
+    "misleading_score": 0.39469902319902334
+  },
+  "significant": {
+    "usefulness": -0.18866666666666668,
+    "noise_ratio": 0.27,
+    "info_score": 0.09333333333333332,
+    "misleading_score": 0.212
+  }
+}
